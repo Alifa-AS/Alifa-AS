@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🚀 Frontend Developer | MERN Stack Enthusiast<br>🎓 Computer Science Graduate (CSE) | Passionate about Web Development<br><br>💡 I specialize in building clean, responsive, and user-friendly web applications.<br>📚 Currently learning and exploring advanced web development concepts.<br>✨ Always eager to learn new technologies and improve my skills.<br><br>🛠 **Tech Stack**<br>✅ Frontend: React.js, HTML, CSS, Tailwind CSS, JavaScript<br>✅ Backend (Basic): Node.js<br>✅ Others: Git, GitHub, Firebase<br><br>🎯 Goals: Contributing to open-source, improving backend skills & mastering full-stack development.<br>🐞 Fun Fact: Creating bugs since [your coding start year]! 😆</p>
+<p align="left">🚀 Frontend Developer | MERN Stack Enthusiast<br>🎓 Computer Science Graduate (CSE) | Passionate about Web Development<br><br>💡 I specialize in building clean, responsive, and user-friendly web applications.<br>📚 Currently learning and exploring advanced web development concepts.<br>✨ Always eager to learn new technologies and improve my skills.<br><br>🛠 **Tech Stack**<br>✅ Frontend: React.js, HTML, CSS, Tailwind CSS, JavaScript<br>✅ Backend (Basic): Node.js<br>✅ Others: Git, GitHub, Firebase<br><br>🎯 Goals: Contributing to open-source, improving backend skills & mastering full-stack development.<br>🐞 Fun Fact: Creating bugs since 2023 😆</p>
 
 ###
 
