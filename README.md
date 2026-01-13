@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="280" src="https://i.ibb.co.com/4RxfVrh6/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png"  />
+  <img height="280" src="https://ibb.co.com/GQtd1g3z"  />
 </div>
 
 ###
